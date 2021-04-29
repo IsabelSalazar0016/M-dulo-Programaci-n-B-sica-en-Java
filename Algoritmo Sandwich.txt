@@ -1,5 +1,8 @@
 ALGORITMO PARA PREPARAR SANDWICH
-PRECONDICIONES: Higienizar utensilios y manos.
+PRECONDICIONES:
+Utensilios, plato, cuchillo.
+Higienizar utensilios y manos.
+Servilleta.
 
 ENTRADA: 
 
