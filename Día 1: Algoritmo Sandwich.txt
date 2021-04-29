@@ -24,6 +24,7 @@ PROCESO:
 8.	Poner el jamón.
 9.	Poner el queso.
 10.	Unir la dos piezas  de pan.
+11. Ubicar el pan sobre el plato y la servilleta.
 
 SALIDA: 
   SANDWICH
