@@ -1,10 +1,12 @@
 ALGORITMO PARA PREPARAR SANDWICH
+
 PRECONDICIONES:
+
 Utensilios, plato, cuchillo.
 Higienizar utensilios y manos.
 Servilleta.
 
-ENTRADA: 
+ENTRADAS: 
 
 1.	Pan 
 2.	Queso 
@@ -14,17 +16,17 @@ ENTRADA:
 
 
 PROCESO: 
-1.	Ir a la despensa por el pan y la mayonesa.
-2.	Sacar el jamón del refrigerador.
-3.	Sacar el queso del refrigerador.
-4.	Sacar el tomate del refrigerar    
-5.	Lavar el tomate, pelarlo, picarlo.
-6.	Poner mayonesa a dos piezas de pan 
-7.	Poner el tomate
-8.	Poner el jamón.
-9.	Poner el queso.
+1.  Ir a la despensa por el pan y la mayonesa.
+2.  Sacar el jamón del refrigerador.
+3.  Sacar el queso del refrigerador.
+4.  Sacar el tomate del refrigerar    
+5.  Lavar el tomate, pelarlo, picarlo.
+6.  Poner mayonesa a dos piezas de pan 
+7.  Poner el tomate
+8.  Poner el jamón.
+9.  Poner el queso.
 10.	Unir la dos piezas  de pan.
-11. Ubicar el pan sobre el plato y la servilleta.
+11.  Ubicar el pan sobre el plato y la servilleta.
 
 SALIDA: 
-  SANDWICH
+SANDWICH
