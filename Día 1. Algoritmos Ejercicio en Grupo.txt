@@ -1,0 +1,51 @@
+Día 1: Ejercicio 2 (Grupal)
+
+1. Cambio de rueda
+
+Entradas
+Auto con rueda pinchada en el estacionamiento de la casa
+Rueda de repuesto
+Llave de cruz
+Gata hidráulica
+
+Proceso
+1. Soltar los pernos con la llave sin sacarlos
+2. Poner la gata debajo del auto
+3. Levantar el auto
+4. Retirar la rueda pinchada
+5. Poner la rueda de repuesto
+6. Poner los pernos
+7. Bajar el auto
+8. Apretar la tuerca
+9. Asegurar la rueda de repuesto
+
+
+2. Cambio de pañal
+Entrada
+Pañal
+Toallita
+Hiploglos
+Manta protectora
+Bolsa para pañal sucio
+Agua
+Jabón
+
+
+Proceso
+1. Poner la manta protectora sobre la superficie plana ( cama, cambiador de pañales….)
+2. Abrir los velcros y retirar pañal
+3. a) Si tiene pipi usar la toallita para limpiar
+b) Si se hizo pipi, lavar con agua y jabón
+4. Cambiar pañal y ajustar velcro
+
+
+
+3. Cambiar clave del correo electrónico
+
+Preexistencias: Tener cuenta de correo electrónico con su respectiva contraseña.
+
+Entrada
+Clave actual
+Usuario
+Computador
+Teléfono móvil
