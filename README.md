@@ -1,2 +1,2 @@
-# M-dulo-Programaci-n-B-sica-en-Java
+# Modulo-Programacion-Basica-en-Java
 Portafolio educativo, registro del proceso de aprendizaje.
